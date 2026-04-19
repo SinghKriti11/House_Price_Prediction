@@ -98,6 +98,7 @@ The workflow includes:
 ---
 
 ## 📈 Results
+
 * The model performs well on both training and test datasets.
 * Visualization shows strong alignment between actual and predicted prices.
 
