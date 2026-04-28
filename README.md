@@ -4,7 +4,6 @@
 
 This project focuses on predicting house prices using machine learning techniques. The model is trained on the **California Housing Dataset** and uses the powerful **XGBoost Regressor** to achieve accurate predictions.
 
-
 The workflow includes:
 
 * Data loading and preprocessing
